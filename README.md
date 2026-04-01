@@ -1,4 +1,4 @@
-# Synced-Lyrics-
+# Synced Lyrics
 Synced Lyrics for some rare songs
 
 ## Songs [ Anime Version ] [ English ]:
